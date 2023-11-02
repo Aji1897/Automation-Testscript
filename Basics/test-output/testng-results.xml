@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-31T10:07:48 PDT" name="Default suite" finished-at="2023-10-31T10:07:48 PDT" duration-ms="113">
+    <groups>
+    </groups>
+    <test started-at="2023-10-31T10:07:48 PDT" name="Default test" finished-at="2023-10-31T10:07:48 PDT" duration-ms="113">
+      <class name="datadriventesting.TestNG">
+        <test-method is-config="true" signature="connectionToServer()[pri:0, instance:datadriventesting.TestNG@7bd4937b]" started-at="2023-10-31T10:07:48 PDT" name="connectionToServer" finished-at="2023-10-31T10:07:48 PDT" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- connectionToServer -->
+        <test-method is-config="true" signature="connectionToDatabase()[pri:0, instance:datadriventesting.TestNG@7bd4937b]" started-at="2023-10-31T10:07:48 PDT" name="connectionToDatabase" finished-at="2023-10-31T10:07:48 PDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- connectionToDatabase -->
+        <test-method is-config="true" signature="LaunchingBrowser()[pri:0, instance:datadriventesting.TestNG@7bd4937b]" started-at="2023-10-31T10:07:48 PDT" name="LaunchingBrowser" finished-at="2023-10-31T10:07:48 PDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchingBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:datadriventesting.TestNG@7bd4937b]" started-at="2023-10-31T10:07:48 PDT" name="login" finished-at="2023-10-31T10:07:48 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="Testcase()[pri:0, instance:datadriventesting.TestNG@7bd4937b]" started-at="2023-10-31T10:07:48 PDT" name="Testcase" finished-at="2023-10-31T10:07:48 PDT" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:datadriventesting.TestNG@7bd4937b]" started-at="2023-10-31T10:07:48 PDT" name="logout" finished-at="2023-10-31T10:07:48 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:datadriventesting.TestNG@7bd4937b]" started-at="2023-10-31T10:07:48 PDT" name="login" finished-at="2023-10-31T10:07:48 PDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="Testcase02()[pri:0, instance:datadriventesting.TestNG@7bd4937b]" started-at="2023-10-31T10:07:48 PDT" name="Testcase02" finished-at="2023-10-31T10:07:48 PDT" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase02 -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:datadriventesting.TestNG@7bd4937b]" started-at="2023-10-31T10:07:48 PDT" name="logout" finished-at="2023-10-31T10:07:48 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="ClosingBrowser()[pri:0, instance:datadriventesting.TestNG@7bd4937b]" started-at="2023-10-31T10:07:48 PDT" name="ClosingBrowser" finished-at="2023-10-31T10:07:48 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClosingBrowser -->
+        <test-method is-config="true" signature="disconnectFromDatabase()[pri:0, instance:datadriventesting.TestNG@7bd4937b]" started-at="2023-10-31T10:07:48 PDT" name="disconnectFromDatabase" finished-at="2023-10-31T10:07:48 PDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- disconnectFromDatabase -->
+        <test-method is-config="true" signature="disconnectFromServer()[pri:0, instance:datadriventesting.TestNG@7bd4937b]" started-at="2023-10-31T10:07:48 PDT" name="disconnectFromServer" finished-at="2023-10-31T10:07:48 PDT" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- disconnectFromServer -->
+      </class> <!-- datadriventesting.TestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
